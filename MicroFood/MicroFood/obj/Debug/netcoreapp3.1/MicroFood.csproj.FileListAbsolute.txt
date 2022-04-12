@@ -1,0 +1,13 @@
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.exe
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.deps.json
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.runtimeconfig.json
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.runtimeconfig.dev.json
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.dll
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\bin\Debug\netcoreapp3.1\MicroFood.pdb
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.csprojAssemblyReference.cache
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.AssemblyInfoInputs.cache
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.AssemblyInfo.cs
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.csproj.CoreCompileInputs.cache
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.dll
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.pdb
+C:\Users\FILIPI\source\repos\MicroFood\MicroFood\obj\Debug\netcoreapp3.1\MicroFood.genruntimeconfig.cache
